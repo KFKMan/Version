@@ -3,3 +3,4 @@ Name_RoGhoul_AutoFarm.txt
 Name_JailBreak_GUI_1.txt
 Name_JailBreak_AutoRob.txt
 Name_BuildABoat_GUI_1.txt
+Name_LumberTycoon_2_GUI_1.txt
