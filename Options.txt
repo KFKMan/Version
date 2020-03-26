@@ -2,3 +2,4 @@ Name_EK_RevizAdminGUI.txt
 Name_RoGhoul_AutoFarm.txt
 Name_JailBreak_GUI_1.txt
 Name_JailBreak_AutoRob.txt
+Name_BuildABoat_GUI_1.txt
